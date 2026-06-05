@@ -1,0 +1,18 @@
+{
+  "name": "vscode-skills",
+  "version": "1.0.0",
+  "description": "VS Code extension development skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/vscode-skills",
+  "repository": "https://github.com/full-statck-skills/vscode-skills",
+  "source": "./",
+  "skills": [
+    "./skills/vscode-deploy-package",
+    "./skills/vscode-feature-command",
+    "./skills/vscode-feature-webview",
+    "./skills/vscode-project-init"
+  ]
+}
