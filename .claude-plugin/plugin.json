@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/vscode-skills",
-  "repository": "https://github.com/full-statck-skills/vscode-skills",
+  "homepage": "https://github.com/full-stack-skills/vscode-skills",
+  "repository": "https://github.com/full-stack-skills/vscode-skills",
   "source": "./",
   "skills": [
     "./skills/vscode-deploy-package",

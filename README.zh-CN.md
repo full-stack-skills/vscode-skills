@@ -4,7 +4,7 @@
 
 **VS Code extension development skills**
 
-[![GitHub](https://img.shields.io/badge/github-full--statck--skills%2Fvscode-skills-green.svg)](https://github.com/full-statck-skills/vscode-skills)
+[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Fvscode-skills-green.svg)](https://github.com/full-stack-skills/vscode-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-兼容-purple.svg)](https://agentskills.io)
 
@@ -21,7 +21,7 @@
 ## 📦 安装
 
 ```bash
-npx skills add full-statck-skills/vscode-skills
+npx skills add full-stack-skills/vscode-skills
 ```
 
 ## 🎯 技能列表 (4)
@@ -42,13 +42,13 @@ npx skills add full-statck-skills/vscode-skills
 **方式一：npx skills CLI（推荐）**
 
 ```bash
-npx skills add full-statck-skills/vscode-skills
+npx skills add full-stack-skills/vscode-skills
 ```
 
 **方式二：手动安装**
 
 ```bash
-git clone https://github.com/full-statck-skills/vscode-skills.git
+git clone https://github.com/full-stack-skills/vscode-skills.git
 cp -r vscode-skills/skills/* .claude/skills/
 ```
 
