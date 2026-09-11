@@ -1,7 +1,7 @@
 ---
 name: vscode-feature-webview
 description: Add a Webview panel to display custom HTML content.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

@@ -1,7 +1,7 @@
 ---
 name: vscode-project-init
 description: Initialize a new VS Code Extension project using TypeScript.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

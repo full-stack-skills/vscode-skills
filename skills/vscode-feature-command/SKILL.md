@@ -1,7 +1,7 @@
 ---
 name: vscode-feature-command
 description: Add a new command to the VS Code extension.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
